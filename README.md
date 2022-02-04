@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
+
 ```BIO```
+
 - 👼 My name is agilofx 
 - 🗣️ I am 18 years old 
 - 🔭 I am not programmer
